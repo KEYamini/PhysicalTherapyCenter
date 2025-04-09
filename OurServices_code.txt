@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our services</title>
+    <header>
+        <header style="display: flex; justify-content: space-between; align-items: center; padding: 20px; background-color: #f8f8f8;">
+            <img src="LOGO.jpg" alt="Renewed Mobility Physical Therapy Center" height="80">
+            <nav>
+                <a href="Home.html" style="margin: 0 10px;">HOME</a>
+                <a href="Home.html" style="margin: 0 10px;">ABOUT US</a>
+                <a href="OurServices.html" style="margin: 0 10px;">OUR SERVICES</a>
+                <a href="PatientInfo.html" style="margin: 0 10px;">PATIENT INFO</a>
+                <a href="Testimonials.html" style="margin: 0 10px;">TESTIMONIALS</a>
+                <a href="ContactUs.html" style="margin: 0 10px;">CONTACT US</a>
+            </nav>
+        </header>
+    </header>
+</head>
+
+<body>
+    <!-- Wave Section with "Our Services" text inside -->
+    <section style="position: relative; background: #0e4b7a; color: white; text-align: center; padding-bottom: 100px;">
+        <h2 style="font-size: 2.5rem; padding: 60px 20px 40px;">Our Services</h2>
+        <svg viewBox="0 0 1440 320" style="position: absolute; bottom: 0; left: 0; width: 100%; height: auto;">
+      <path fill="#ffffff" fill-opacity="1"
+            d="M0,192L80,202.7C160,213,320,235,480,229.3C640,224,800,192,960,181.3C1120,171,1280,181,1360,186.7L1440,192L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z" />
+  </svg>
+    </section>
+
+
+    <!-- Service Section 1 -->
+    <section style="display: flex; flex-wrap: wrap; padding: 40px; align-items: center;">
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <img src="ptc3.jpg" alt="Post-Surgery Rehabilitation" style="width: 100%; border-radius: 10px;" loading="lazy">
+        </div>
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <h3>Post-Surgery Rehabilitation</h3>
+            <p>Recovering from surgery can be challenging, but at [Business Name], we specialize in post-surgical rehabilitation to help you regain strength and mobility. Our experienced team of physical therapists in [City], [State], works closely with
+                you to create personalized rehabilitation programs tailored to your specific needs. Whether you’ve undergone joint replacement, back surgery, or another procedure, we use evidence-based techniques to reduce pain, improve function, and
+                get you back to your daily activities as quickly and safely as possible. Our post-surgery rehabilitation services focus on restoring your body’s range of motion and reducing stiffness, swelling, and discomfort. By incorporating a combination
+                of manual therapy, therapeutic exercises, and advanced technology, we help you progress steadily throughout your recovery journey. At [Business Name], we believe in a holistic approach to healing, empowering you with the tools and support
+                needed to achieve long-term recovery and prevent future complications.</p>
+            <a href="#" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #0e4b7a; color: white; text-decoration: none; border-radius: 5px;">Make an Appointment</a>
+        </div>
+    </section>
+
+    <!-- Service Section 2 -->
+    <section style="display: flex; flex-wrap: wrap-reverse; padding: 40px; align-items: center; background-color: #f9f9f9;">
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <h3>Sports Injury Treatment</h3>
+            <p>At [Business Name], we understand how frustrating sports injuries can be for athletes and active individuals. Our sports injury treatment programs are designed to help you recover quickly and safely, getting you back to your favorite activities
+                in no time. Located in [City], [State], our expert physical therapists use a combination of manual therapy, targeted exercises, and advanced technology to treat common sports injuries, such as sprains, strains, ligament tears, and overuse
+                injuries. Whether you’re dealing with a recent injury or managing a recurring issue, our sports injury specialists will assess your condition and create a customized treatment plan. We focus on reducing pain, restoring function, and preventing
+                future injuries by improving strength, flexibility, and mobility. At [Business Name], we’re committed to providing comprehensive care that helps athletes of all levels stay healthy and perform at their best.</p>
+            <a href="#" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #0e4b7a; color: white; text-decoration: none; border-radius: 5px;">Make an Appointment</a>
+        </div>
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <img src="ptc4.jpg" alt="Sports Injury Treatment" style="width: 100%; border-radius: 10px;" loading="lazy">
+        </div>
+    </section>
+    <section style="display: flex; flex-wrap: wrap; padding: 40px; align-items: center;">
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <img src="ptc5.jpg" alt="Post-Surgery Rehabilitation" style="width: 100%; border-radius: 10px;" loading="lazy" width="1000">
+        </div>
+        <div style="flex: 1; min-width: 300px; padding: 20px;">
+            <h3>Chronic Pain Management</h3>
+            <p>Living with chronic pain can severely impact your quality of life, but [Business Name] in [City], [State] offers effective solutions to help you manage and reduce your pain. Our chronic pain management services are tailored to each individual,
+                addressing the underlying causes of pain and providing long-lasting relief. Whether you suffer from arthritis, back pain, fibromyalgia, or another chronic condition, our team of physical therapists uses a combination of manual therapy,
+                therapeutic exercises, and advanced modalities to improve your comfort and mobility. Our approach to chronic pain management focuses on educating patients about proper body mechanics, posture correction, and movement strategies to minimize
+                discomfort. At [Business Name], we emphasize empowering you with the skills to manage pain independently, while also providing ongoing support and monitoring. Let us help you regain control of your life by reducing your pain and improving
+                your physical function.</p>
+            <a href="#" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #0e4b7a; color: white; text-decoration: none; border-radius: 5px;">Make an Appointment</a>
+        </div>
+
+    </section>
+    <section style="
+position: relative;
+background: url('ptc3.jpg') center/cover no-repeat;
+color: white;
+height: 400px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+overflow: hidden;
+">
+        <!-- Wave at the top -->
+        <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100px; z-index: 1;" viewBox="0 0 1440 320" preserveAspectRatio="none">
+      <path fill="white" d="M0,64L60,85.3C120,107,240,149,360,170.7C480,192,600,192,720,170.7C840,149,960,107,1080,101.3C1200,96,1320,128,1380,144L1440,160L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path>
+  </svg>
+
+        <!-- Optional overlay -->
+        <div style="
+    position: absolute;
+    inset: 0;
+
+    z-index: 1;
+  "></div>
+        <div style="position: relative; z-index: 2; padding: 20px; max-width: 700px;">
+            <h2 style="font-size: 32px; font-weight: bold; margin-bottom: 15px;">
+                Start Your Recovery Journey Today
+            </h2>
+            <p style="font-size: 18px; margin-bottom: 20px;">
+                Get the expert care you deserve with personalized physical therapy at [Business Name] in [City], [State]. Book your appointment now and take the first step toward better health.
+            </p>
+            <a href="ptc3.jpg" style="
+      padding: 12px 24px;
+      background-color: #0c4a6e;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    ">Get Started</a>
+        </div>
+    </section>
+    <section style="background-color: #2e2e2e; color: white; padding: 40px 20px;">
+        <div style="max-width: 1200px; margin: auto; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 30px;">
+
+            <!-- Left Column -->
+            <div style="flex: 1 1 300px;">
+                <h3 style="font-weight: bold;">About [Business Name]</h3>
+                <p style="line-height: 1.6; margin-top: 10px;">
+                    Located in [City], [State], [Business Name] specializes in personalized physical therapy and rehabilitation services. Our experienced team is dedicated to helping you recover from injuries, manage chronic pain, and improve your overall mobility. With
+                    a focus on individualized care and state-of-the-art treatments, we’re committed to guiding you every step of the way on your path to wellness.
+                </p>
+                <p style="margin-top: 20px;">
+                    <a href="#" style="color: #cccccc; text-decoration: underline;">Privacy Policy</a>
+                </p>
+            </div>
+
+            <!-- Right Column -->
+            <div style="flex: 1 1 300px;">
+                <p style="margin-bottom: 10px; white-space: pre-line;">
+                    [Street Address] [City], [State] [Zip Code] Phone: [Phone Number]
+                </p>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.2772922010396!2d78.0366181!3d15.8286455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb5dc8714d43dbd%3A0x18ac979b8ee9e0d4!2sKurnool%20City%20Outdoor%20Stadium!5e0!3m2!1sen!2sin!4v1712469097900!5m2!1sen!2sin"
+                    width="100%" height="200" style="border:0; border-radius: 6px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <footer>
+        <pre> <a href="Home.html">    HOME   </a> <a href="Home.html">    ABOUT US   </a> <a href="OurServices.html">    OUR SERVICES   </a> <a href="PatientInfo.html">    PATIENT INFO   </a> <a href="Testimonials.html">    TESTIMONIALS   </a> <a href="ContactUs.html">    CONTACT US   </a>
+      </pre>
+        </strong>
+        </p>
+    </footer>
+
+</body>
+
+</html>
