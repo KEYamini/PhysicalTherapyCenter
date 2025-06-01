@@ -1,0 +1,66 @@
+                                     file:///C:/Users/YAMINI%20PRASANNA/OneDrive/Desktop/HTML%20Tut/RenewedMobilityPT/Home.html
+
+
+Renewed Mobility Physical Therapy Center - Website
+
+Welcome to the official website project for Renewed Mobility Physical Therapy Center. This website is built using basic HTML and inline CSS, and is designed to provide information about the clinic’s services, patient support, and contact options in a visually engaging and user-friendly way.
+
+
+---
+
+📄 Overview
+
+This website includes:
+
+Hero Section with a background image and a strong call-to-action.
+
+Stats Section showing years of experience, happy patients, and customer ratings with an attractive wave design.
+
+Welcome Message explaining the purpose and approach of the therapy center.
+
+Alternating Services Sections:
+
+Post-Surgery Rehabilitation
+
+Sports Injury Treatment
+
+Chronic Pain Management
+
+
+Image and CTA Banners to visually guide users.
+
+Contact Form for inquiries or appointment requests.
+
+Embedded Google Slides Presentation (for promotional or informational content).
+
+Footer Section with information and an embedded map (or general contact info area).
+
+
+
+---
+
+📁 Files Used
+
+Home.html — Main page of the website.
+
+ptc2.jpg, ptc3.jpg, ..., ptc7.jpg — Therapy-related images.
+
+LOGO.jpg — Clinic’s logo.
+
+Additional linked pages: OurServices.html, PatientInfo.html, Testimonials.html, ContactUs.html (assumed to exist or to be created).
+
+
+
+---
+
+💡 Features
+
+Fully responsive layout using inline styles and flexbox.
+
+Alternating content layout for a dynamic design (image and text sections).
+
+SVG wave shapes for smooth section transitions.
+
+Built-in form styling with reCAPTCHA image placeholder.
+
+Embeds a Google Slides presentation to showcase services or success stories.
